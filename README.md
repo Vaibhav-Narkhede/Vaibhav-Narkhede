@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/VNProgrammer">
   <img align="left" alt="Vaibhav Narkhede | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br><br/>
-**Talking about Personal Stuffs-**
+
+## Talking about Personal Stuffs
 - 🔭 I’m currently working on iOS.
 - 🌱 I’m currently learning Flutter.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
