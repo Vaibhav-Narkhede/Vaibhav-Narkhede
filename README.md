@@ -2,14 +2,12 @@
 <p><em>Software Engineer at <a href="https://www.orioninc.com/">Orion</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<br/>
 <a href="https://twitter.com/VNProgrammer">
   <img align="left" alt="Vaibhav Narkhede | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/VNProgrammer">
   <img align="left" alt="Vaibhav Narkhede | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br/>
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on iOS.
@@ -18,7 +16,7 @@
 - 📫 How to reach me: VNProgrammer@outlook.com
 
 ## ⚡ Technologies
-<p align="center">
+<p>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS | Objective-C | Swift | Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
