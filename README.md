@@ -8,16 +8,16 @@
 <a href="https://www.linkedin.com/in/VNProgrammer">
   <img align="left" alt="Vaibhav Narkhede | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br/>
-**Talking about Personal Stuffs:**
+<br><br/>
+**Talking about Personal Stuffs-**
 - 🔭 I’m currently working on iOS.
 - 🌱 I’m currently learning Flutter.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 📫 How to reach me: VNProgrammer@outlook.com
 
 ## ⚡ Technologies
-<p>
+<h4>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS | Objective-C | Swift | Flutter | Go
-</p>
+</h4>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
