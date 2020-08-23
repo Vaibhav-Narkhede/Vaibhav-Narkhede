@@ -5,12 +5,11 @@
 ### Talking about Personal Stuffs
 - 🔭 I’m currently working on iOS.
 - 🌱 I’m currently learning Flutter.
-- 🤔 I’m looking for help with Data Structures and Algorithms.
 - 📫 How to reach me: VNProgrammer@outlook.com
 
 ### ⚡ Technologies
 <h4>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS | Objective-C | Swift | Flutter | Go
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS | Objective-C | Swift | Flutter | Go | Python
 </h4>
 
 ### 🌍 Connect Here
