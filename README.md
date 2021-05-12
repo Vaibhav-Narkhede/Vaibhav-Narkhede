@@ -4,7 +4,7 @@
 
 ### Talking about Personal Stuffs
 - 🔭 I’m currently working on iOS.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter & Go Programming Language.
 - 📫 How to reach me: VNProgrammer@outlook.com
 
 ### ⚡ Technologies
