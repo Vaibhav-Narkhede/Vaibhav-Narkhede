@@ -9,7 +9,7 @@
 
 ### ⚡ Technologies
 <h4>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS | Objective-C | Swift | Dart | Flutter | Go | Python | SQLite | PostgreSQL
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS | Objective-C | Swift | Flutter | Go | Python | SQLite | PostgreSQL
 </h4>
 
 ### 🌍 Connect Here
