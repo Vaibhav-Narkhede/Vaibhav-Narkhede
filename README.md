@@ -4,12 +4,11 @@
 
 ### Talking about Personal Stuffs
 - 🔭 I’m currently working on iOS.
-- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: VNProgrammer[at]outlook.com
 
 ### ⚡ Technologies
 <h4>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C | Objective-C | Swift | iOS | Flutter | Go | SQLite | PostgreSQL
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> C | Objective-C | Swift | iOS | Flutter | Go | SQLite | PostgreSQL | Linux
 </h4>
 
 ### 🌍 Connect Here
