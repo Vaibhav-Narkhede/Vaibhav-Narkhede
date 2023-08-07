@@ -12,7 +12,7 @@ iOS Developer with over 9 years of experience in Objective-C and Swift, speciali
 
 ### ✨ Technologies
 <h4>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS Engineer | Swift | TypeScript | Go | SQL | OpenGL
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> iOS Developer | Swift | TypeScript | Go | SQL | OpenGL
 </h4>
 
 ### ✨ Learning
