@@ -8,7 +8,7 @@
 - 📫 How to reach me: VNProgrammer[at]outlook.com
 
 ### 👨‍💻 About Me
-iOS Developer with over 9 years of experience in Objective-C and Swift, specializing in SwiftUI and map-related technologies. Skilled in developing robust mobile applications and leveraging expertise in Go programming. Committed to delivering high-quality solutions that meet client needs and enhance user experiences.
+iOS Developer with over 10 years of experience in Objective-C and Swift, specializing in SwiftUI and map-related technologies. Skilled in developing robust mobile applications and leveraging expertise in Go programming. Committed to delivering high-quality solutions that meet client needs and enhance user experiences.
 
 ### ✨ Technologies
 <h4>
