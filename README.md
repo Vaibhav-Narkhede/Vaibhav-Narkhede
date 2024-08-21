@@ -2,8 +2,6 @@
 <h2>Hi 👋, I'm Vaibhav Narkhede!</h2>
 
 ### Talking about Personal Stuffs
-- <p> 🔭 I’m currently working as <em> Senior Software Engineer at <a href="https://www.orioninc.com/">Orion Innovation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 - 😄 Pronouns: He / Him
 - 📫 How to reach me: VNProgrammer[at]outlook.com
 
